@@ -1,0 +1,146 @@
+#priscilla {
+	padding: 100px 0;
+}
+
+#priscilla .btn {
+	background-color: transparent;
+	padding: 10px 40px;
+	font-size: 20px;
+	color: #000;
+	text-transform: uppercase;
+	border:0;
+}
+
+#priscilla h2 {
+	font-size: 60px;
+	color: #000;
+}
+
+#priscilla h4{
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #676464;
+}
+
+#zone {
+	padding: 100px 0;
+}
+
+#zone .btn{
+	background-color: transparent;
+	padding: 10px 40px;
+	font-size: 20px;
+	color: #000;
+	text-transform: uppercase;
+	border:0;
+}
+#zone h2{
+font-size: 60px;
+	color: #000;
+}
+
+#zone h4{
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #676464;
+}
+
+#ladybird {
+	padding: 60px 0;
+}
+
+
+#ladybird .btn{
+	background-color: transparent;
+	padding: 10px 40px;
+	font-size: 20px;
+	color: #000;
+	text-transform: uppercase;
+	border:0;
+}
+
+#ladybird h2{
+	font-size: 60px;
+	color: #000;
+}
+
+#ladybird h4{
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #676464;
+}
+
+#iron{
+	padding: 60px 0;
+}
+
+#iron .btn{
+	background-color: transparent;
+	padding: 10px 40px;
+	font-size: 20px;
+	color: #000;
+	text-transform: uppercase;
+	border:0;
+}
+
+#iron h2{
+	font-size: 60px;
+	color: #000;
+}
+
+#iron h4{
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #676464;
+}
+
+#talk {
+	padding: 60px 0;
+}
+
+#talk .btn {
+	background-color: transparent;
+	padding: 10px 40px;
+	font-size: 20px;
+	color: #000;
+	text-transform: uppercase;
+	border:0;
+}
+
+
+#talk h2 {
+font-size: 60px;
+	color: #000;	
+}
+
+
+#talk h4{
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #676464;
+}
+
+#dicks {
+	padding: 60px 0;
+}
+
+#dicks .btn{
+	background-color: transparent;
+	padding: 10px 40px;
+	font-size: 20px;
+	color: #000;
+	text-transform: uppercase;
+	border:0;
+}
+
+#dicks h2{
+	font-size: 60px;
+	color: #000;
+}
+
+
+#dicks h4{
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #676464;
+}

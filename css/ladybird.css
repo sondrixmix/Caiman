@@ -1,0 +1,61 @@
+
+#ladybird{
+	padding: 400px 0;
+	background-image: url(../img/ladybird-film.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#ladybird h2{
+	font-size: 70px;
+	color:#FFFFFF;
+}
+
+#written {
+	padding: 50px 0;
+	
+}
+#written h4{
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #676464;
+}
+
+#starring {
+	padding: 0px 0px 30px;
+}
+
+#starring h4{
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #676464;
+}
+
+#content{
+	padding-bottom: 50px;
+}
+#content h5{
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+#awards h4{
+	text-transform: uppercase;
+	font-size: 16px;
+	color: #676464;
+}
+	
+footer{
+	background-color: black;
+	padding-top: 25px;
+	padding-bottom: 10px;
+}
+
+footer p{
+	color: white;
+}
+
+footer i{
+	color: white;
+	font-size: 40px;
+	}

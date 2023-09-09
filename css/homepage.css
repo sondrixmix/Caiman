@@ -1,0 +1,70 @@
+#hero{
+	background-image: url("../img/index-fondo-pantalla.jpg");
+	background-size: cover;
+	background-position: center;
+	text-align: left;
+	padding: 15% 0 0;
+	height: 100vh;
+	}
+
+.link-1{
+	text-decoration: none;
+	color: #fff;
+	font-size: 50px;
+	display:block;
+	}
+
+#zone {
+	padding: 100px 0;
+}
+
+#zone .btn{
+	background-color: transparent;
+	padding: 10px 40px;
+	font-size: 20px;
+	color: #000;
+	text-transform: uppercase;
+	border:0;
+}
+#zone h2{
+font-size: 60px;
+	color: #000;
+}
+
+#iron {
+	padding: 50px 0;
+}
+
+#iron .btn{
+	background-color: transparent;
+	padding: 10px 40px;
+	font-size: 20px;
+	color: #000;
+	text-transform: uppercase;
+	border:0;
+}
+
+#iron h2{
+	font-size: 60px;
+	color: #000;
+}
+
+#ladybird {
+	padding: 60px 0;
+}
+
+
+#ladybird .btn{
+	background-color: transparent;
+	padding: 10px 40px;
+	font-size: 20px;
+	color: #000;
+	text-transform: uppercase;
+	border:0;
+}
+
+#ladybird h2{
+	font-size: 60px;
+	color: #000;
+}
+
